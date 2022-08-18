@@ -1,34 +1,27 @@
 # Tema
 
-- Asiatencia Admin
+Productos
 #
 
 ## INTEGRANTES
 #
 
-- Nombre: Ronnald Santiago Haro Argudo
+- Nombre: Erika Maite Cuadros Castillo
 
-- Cedula: 1726236324
-
-- Modulo: AA-Actividad
+- Cedula: 1754166070
 
 #
-- Nombre: Geovanny Rodlfo Vera Murillo
+- Nombre: David Alexander Jirón Benitez
 
-- Cedula: 1207154145
+- Cedula: 1750948950
 
-- Modulo: AA-Rol
 #
-- Nombre: Hector Steveen Ordoñez Chamba
+- Nombre: Anahí Daniela Cruz Josa
 
-- Cedula: 1755516802
-
-- Modulo: AA-Dias Feriados
+- Cedula: 17537746815
 
 #
 
-- Nombre: Steven Joel Guerra Valenzuela
+- Nombre: Jhoel David Bermeo Velasco
 
-- Cedula:
-
-- Modulo: AA-Categoria actividad
+- Cedula:1724925530
